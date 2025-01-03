@@ -27,3 +27,12 @@ async function setup() {
   })
 }
 setup()
+
+
+//image recognition while image is captured from video when clicked on spacebar
+
+// a worker is how you interact with tesseract lib
+
+//get an image from video using canvas
+
+// to read out text from image, we use speechSynthesis API
